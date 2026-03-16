@@ -27,7 +27,7 @@ h1{
     font-family: Montserrat, sans-serif;
     color: white;
     position: relative;
-    top: 250px;
+    top: 240px;
 }
 
 
@@ -35,9 +35,8 @@ h1{
 .container{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    height: 100vh;
+    margin-top: 300px;
 }
 
 
