@@ -2,11 +2,11 @@
 
 /* Fundo da página */
 body{
-    background-image: url("../img/escritorio.jpg"); /* imagem de fundo */
-    background-size: cover; /* ocupa toda a tela */
-    background-position: center; /* centraliza a imagem */
-    background-repeat: no-repeat; /* não repete a imagem */
-    margin: 0; /* remove margem padrão */
+    background-image: url("../img/escritorio.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
 
     min-height: 100vh;
     display: flex;
